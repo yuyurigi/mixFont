@@ -2,7 +2,7 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    ofBackground(191, 163, 252);
+    ofBackground(220, 186, 253);
     ofSetBackgroundAuto(true);
     ofSetFrameRate(5);
     
